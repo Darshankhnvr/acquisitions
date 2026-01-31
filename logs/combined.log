@@ -1,0 +1,6 @@
+{"level":"info","message":"Hello","service":"acquisitions-api","timestamp":"2026-01-31T18:05:26.253Z"}
+{"level":"info","message":"::1 - - [31/Jan/2026:18:05:26 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-01-31T18:05:26.268Z"}
+{"level":"info","message":"Hello","service":"acquisitions-api","timestamp":"2026-01-31T18:05:27.588Z"}
+{"level":"info","message":"::1 - - [31/Jan/2026:18:05:27 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-01-31T18:05:27.590Z"}
+{"level":"info","message":"Hello","service":"acquisitions-api","timestamp":"2026-01-31T18:06:56.830Z"}
+{"level":"info","message":"::1 - - [31/Jan/2026:18:06:56 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36\"","service":"acquisitions-api","timestamp":"2026-01-31T18:06:56.837Z"}
